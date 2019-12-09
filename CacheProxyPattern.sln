@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CacheProxyPattern.WebApp", "CacheProxyPattern.WebApp\CacheProxyPattern.WebApp.csproj", "{8345E613-EB85-43E2-8340-2AF5C9FFDDDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8345E613-EB85-43E2-8340-2AF5C9FFDDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8345E613-EB85-43E2-8340-2AF5C9FFDDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8345E613-EB85-43E2-8340-2AF5C9FFDDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8345E613-EB85-43E2-8340-2AF5C9FFDDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87233ECD-7D76-4265-A1A7-CC4FA2297B2F}
+	EndGlobalSection
+EndGlobal
