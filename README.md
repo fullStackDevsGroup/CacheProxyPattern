@@ -19,8 +19,7 @@ in particular the Single Responsibility Principle and because of this we use pro
 ### In the proxy pattern definition, we have :
 
 The Proxy object can then hide or change data on the hidden object, 
-or otherwise manipulate its behavior. However, the Proxy must still be able to be used anywhere the hidden object is.
-and base on 
+or otherwise manipulate its behavior, also is used to control  the creation and access of the objects. Proxy class is basically is an object which control the creation and access of the other object. Or in other words it is a representative class (which is simple  in functioning) which represents a more complex class which is created once the requirements are met. The client only knows about the proxy class and the main complex class stays behind the scene. 
 
 #### There are many uses for the proxy design pattern. one of the more common types of proxy is:
 
